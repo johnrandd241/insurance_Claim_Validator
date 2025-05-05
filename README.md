@@ -15,7 +15,7 @@ A lightweight Python tool to validate insurance claims against policy rules. Thi
 
 ## 🛠️ Technologies Used
 
-- Python 3.x  
+- Python 
 - pandas  
 - openpyxl (for Excel export)  
 - CSV file input/output
@@ -30,9 +30,6 @@ insurance-claim-validator/
 ├── insurance_claim_validator.py
 ├── validated_claims_report.xlsx
 └── README.md
-
-yaml
-Copy
 
 ---
 
@@ -58,8 +55,8 @@ Copy
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/insurance-claim-validator.git
-   cd insurance-claim-validator
+   git clone https://github.com/YOUR_USERNAME/insurance_Claim_Validator.git
+   cd insurance_Claim_Validator
 Ensure you have the required packages:
 
 bash
