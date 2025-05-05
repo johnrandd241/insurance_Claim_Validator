@@ -1,0 +1,4 @@
+﻿policy_id,policyholder_name,policy_limit,policy_start,policy_end,policy_status
+P001,Alice Smith,10000,1/1/2023,12/31/2023,Active
+P002,Bob Johnson,15000,3/1/2023,12/31/2023,Lapsed
+P003,Carla White,8000,5/1/2023,4/30/2024,Active
